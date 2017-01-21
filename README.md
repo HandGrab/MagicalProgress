@@ -4,7 +4,7 @@
 
 
 博客地址（Blog Address）http://www.jianshu.com/p/fad5f4c2a3e8
-![效果图](http://upload-images.jianshu.io/upload_images/2159288-004877945ce7f99d.gif?imageMogr2/auto-orient/strip)
+
 
 ####public API
 ```
