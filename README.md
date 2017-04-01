@@ -6,7 +6,7 @@
 博客地址（Blog Address）http://www.jianshu.com/p/fad5f4c2a3e8
 
 
-####public API
+#### public API
 ```
  /**
   * 设置进度
